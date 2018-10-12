@@ -30,3 +30,5 @@ The prices of the house indicated by the variable 'price' was the target variabl
 |sqft_l15  |        | Living room area in 2015(implies-- some renovations)      |                   N     |
 | sqft_lt15|        |lotSize area in 2015(implies-- some renovations)           |                   N      |
  
+ 
+ 
