@@ -34,7 +34,7 @@ The prices of the house indicated by the variable 'price' was the target variabl
 
 The distribution of the target variable was skewed to the right with a very long tail.So I log tranformed it to get a near normal distribution.
 
-I analyzed the degree of correlation of numeric features with target variable in order to have a quick view of potential feature importance and redundancies (similar variables with high degree of correlation).I combined redundant features that were also correlated, such as, property_age=year_sold-year_built.
+I analyzed the degree of correlation of numeric features with target variable in order to have a quick view of potential feature importance and redundancies (similar variables with high degree of correlation).I combined redundant features that were also correlated, such as, **property_age=year_sold-year_built**.
 
 I analyzed the categorical features against sales price to understand the impact of different classes and the count within each class. In some cases one class within the feature was predominant over others.So I created dummy variables from categorical features. 
 
